@@ -1,0 +1,3 @@
+s=input("type ur string please : ")
+
+print("length of string : ", len(s))
